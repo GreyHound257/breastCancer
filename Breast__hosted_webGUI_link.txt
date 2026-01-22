@@ -2,5 +2,5 @@ Name: Eniolaoluwa Dayo-Obatewose
 Matric Number: 23CD034317   
 Machine Learning Algorithm Used: Support Vector Machine (SVM)
 Model Persistence Method: Joblib
-Live URL: https://breast-cancer.vercel.app/
+Live URL: https://breast-cancer-lake.vercel.app
 GitHub Repository: https://github.com/GreyHound257/breastCancer.git
